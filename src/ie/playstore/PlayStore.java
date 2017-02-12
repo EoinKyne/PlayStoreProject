@@ -14,7 +14,7 @@ public class PlayStore {
 		if(ps == null){
 			ps = new PlayStore();
 		}
-		//System.out.println("test " + ps);
+		System.out.println("Playstore " + ps);
 		return ps;
 	}
 	
@@ -37,7 +37,11 @@ public class PlayStore {
 	public Playable find(String name){  // Constant time O(1)
 		return this.find(name);
 	}
-	
-	
 
+	@Override
+	public String toString() {
+		return "PlayStore";
+	}
+	
+	
 }
