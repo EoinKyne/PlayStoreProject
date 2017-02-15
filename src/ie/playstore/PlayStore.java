@@ -37,11 +37,5 @@ public class PlayStore {
 	public Playable find(String name){  // Constant time O(1)
 		return this.find(name);
 	}
-
-	@Override
-	public String toString() {
-		return "PlayStore";
-	}
-	
 	
 }
