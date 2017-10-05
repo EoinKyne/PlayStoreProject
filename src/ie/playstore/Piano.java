@@ -10,7 +10,7 @@ public class Piano extends Instrument{
 	@Override
 	public void play() {
 		//this.play();
-		System.out.println("Playing Piano!");
+		System.out.println("Playing the Piano!");
 	}
 
 	
