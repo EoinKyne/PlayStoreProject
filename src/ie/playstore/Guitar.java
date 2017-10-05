@@ -9,7 +9,7 @@ public class Guitar extends Instrument {
 	@Override
 	public void play() {
 		//this.play();
-		System.out.println("Playing Guitar!");
+		System.out.println("Playing the Guitar!");
 	}
 
 }
