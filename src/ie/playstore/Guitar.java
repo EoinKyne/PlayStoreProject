@@ -1,7 +1,7 @@
 package ie.playstore;
 
 public class Guitar extends Instrument {
-	
+	// Constructor
 	public Guitar() {
 		super();
 	}
