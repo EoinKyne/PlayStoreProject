@@ -2,7 +2,7 @@ package ie.playstore;
 
 public class Tetris extends ComputerGame {
 
-	// Constuctor
+	// constructor
 	public Tetris() {
 		super();
 	}
