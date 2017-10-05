@@ -4,6 +4,7 @@ public class Piano extends Instrument{
 
 	// Constructor
 	public Piano() {
+		// call to super
 		super();
 	}
 
